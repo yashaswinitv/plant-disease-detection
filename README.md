@@ -19,6 +19,17 @@ This plant leaf disease detection project was developed using Python, Flask, Ten
 4. Access the web application in your browser at `http://localhost:5000`.
 5. Upload images of plant leaves to get predictions for plant diseases.
 
+
+
+## Model Information
+
+⚠️ The trained model file is too large to upload on GitHub.
+
+📥 Download the model here:
+https://drive.google.com/file/d/1IVXqzBMp2tVLwJt2sRkWONkNyVoEwiGK/view?usp=drive_link
+
+👉 After downloading, place model.h5 inside the project folder.
+
 ## Dataset
 
 The model was trained using a dataset of 3000+ images of plant leaves, annotated with different types of plant diseases. The dataset was used to train the deep learning model to accurately classify and detect plant leaf diseases.
